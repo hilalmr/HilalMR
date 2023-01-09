@@ -3,6 +3,7 @@
 <h1 align="center">Hoi, I'm HilalMR</h1>
 <h3 align="center">A 16yr old game and app developer</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hilalmr&label=Profile%20views&color=0e75b6&style=flat" alt="hilalmr" /> </p>
 
 - 🔭 I’m currently working on [A game called Piney Adventure](hilalmr.itch.io)
@@ -15,6 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCx8-jdWgotNF8SjTmEl18_g?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+  
 <a href="https://codepen.io/hilalmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hilalmr" height="30" width="40" /></a>
 <a href="https://twitter.com/clicodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="clicodev" height="30" width="40" /></a>
 </p>
