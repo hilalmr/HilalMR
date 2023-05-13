@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [A game called Piney Adventure](hilalmr.itch.io)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [hilalmr.itch.io](hilalmr.itch.io)
 
