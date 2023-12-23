@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hilalmr&label=Profile%20views&color=0e75b6&style=flat" alt="hilalmr" /> </p>
 
-- 🔭 I’m currently working on [A game called Piney Adventure](hilalmr.itch.io)
+- 🔭 I’m currently working on [A game called Piney Adventure](dyuku.itch.io)
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All of my projects are available at [hilalmr.itch.io](hilalmr.itch.io)
+- 👨‍💻 All of my projects are available at [dyuku.itch.io](dyuku.itch.io)
 
 - ⚡ Fun fact **I hate JS**
 
